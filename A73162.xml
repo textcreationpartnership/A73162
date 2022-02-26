@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A country new Iigge betweene Simon and Susan, to be sung in merry pastime by bachelors and maydes. To the tune of I can, nor will no longer lye alone: or, Falero lero lo</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73162</idno>
+            <idno type="STC">STC 22555.5</idno>
+            <idno type="STC">ESTC S124606</idno>
+            <idno type="EEBO-CITATION">99899071</idno>
+            <idno type="PROQUEST">99899071</idno>
+            <idno type="VID">150750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1978:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A country new Iigge betweene Simon and Susan, to be sung in merry pastime by bachelors and maydes. To the tune of I can, nor will no longer lye alone: or, Falero lero lo</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>by W. I[ones].,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's name and date of publication from STC.</note>
+                  <note>Verse - "O mine owne sweet heart,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love poetry --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150750:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>A country new Iigge betweene <hi>Simon</hi> and <hi>Suſan,</hi> to be ſung in merry paſtime by Bachelors and Maydes.</head>
+            <opener>To the tune of I can, nor will no longer lye alone: Or, Falero lero lo.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>
+                     <hi>O</hi> Mine owne ſwéet heart,</l>
+                  <l>and when wilt thou be true:</l>
+                  <l>Or when will the time come,</l>
+                  <l>that I ſhall marry you.</l>
+                  <l>That I may giue you kiſſes,</l>
+                  <l>one, two, or three,</l>
+                  <l>More ſwéeter then the hunny,</l>
+                  <l>that comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Suſan.</speaker>
+                  <l>My Father is vnwilling,</l>
+                  <l>that I ſhould marry thee:</l>
+                  <l>Yet I could wiſh in heart,</l>
+                  <l>that ſo the ſame might be.</l>
+                  <l>For now me thinkes thou ſéemeſt,</l>
+                  <l>more louely vnto me:</l>
+                  <l>And freſher then the Bloſſomes,</l>
+                  <l>that bloomes vpon the Tree.</l>
+               </sp>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>Thy mother is moſt willing,</l>
+                  <l>and will conſent I know,</l>
+                  <l>Then let vs to they Father</l>
+                  <l>now both together goe:</l>
+                  <l>Where if he giue vs his good will,</l>
+                  <l>and to our match agree:</l>
+                  <l>T'will be ſweeter then the honny,</l>
+                  <l>that comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Suſan.</speaker>
+                  <l>Come goe, for I am willing,</l>
+                  <l>good fortune be our guide:</l>
+                  <l>From that which I haue promiſed,</l>
+                  <l>deare heart ile neuer ſlide.</l>
+                  <l>If that he doe but ſmile,</l>
+                  <l>and I the ſame may ſee:</l>
+                  <l>Tis ſweeter then the bloſſomes,</l>
+                  <l>that bloomes vpon the Trée.</l>
+               </sp>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>But ſtay heere comes my mother,</l>
+                  <l>weele talke with her a word,</l>
+                  <l>I doubt not but ſome comfort.</l>
+                  <l>to vs ſhe may afford:</l>
+                  <l>If com<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> ſhe wil<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> giue vs,</l>
+                  <l>that we the ſame my ſee,</l>
+                  <l>Twill be ſwéeter then the honny,</l>
+                  <l>that comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Suſan.</speaker>
+                  <l>O Mother wee are going</l>
+                  <l>my Father for to pray:</l>
+                  <l>That he will giue me his good will,</l>
+                  <l>for long I cannot ſtay<g ref="char:punc">▪</g>
+                  </l>
+                  <l>A young man I haue choſen;</l>
+                  <l>a fitting match for me:</l>
+                  <l>More fayrer then the bloſſomes,</l>
+                  <l>that bloomes vpon the Tree.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Daughter thou art old enough,</l>
+                  <l>to be a wedded wife,</l>
+                  <l>You Maydens are deſirous</l>
+                  <l>to lead a married life.</l>
+                  <l>Then my conſent good Daughter,</l>
+                  <l>ſhall to thy wiſhes be:</l>
+                  <l>For young thou art as bloſſomes,</l>
+                  <l>that bloome vpon the Tree.</l>
+               </sp>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>Then Mother you are willing,</l>
+                  <l>your Daughter I ſhould haue:</l>
+                  <l>And <hi>Suſan</hi> thou art welcome,</l>
+                  <l>ile keepe thee fine and braue.</l>
+                  <l>And haue thoſe wiſhed bleſſings</l>
+                  <l>beſtowed vpon thee,</l>
+                  <l>More ſweeter then the honny,</l>
+                  <l>that comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Suſan.</speaker>
+                  <l>Yet <hi>Simon I</hi> am minded</l>
+                  <l>to lead a merry life:</l>
+                  <l>And be as well maintained,</l>
+                  <l>as any Citty wife:</l>
+                  <l>And liue a gallant Miſtreſſe</l>
+                  <l>of Maydens that ſhall bee</l>
+                  <l>More fayrer then the bloſſomes,</l>
+                  <l>that bloome vpon the Tree.</l>
+               </sp>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150750:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 20 -->
+               <head>The ſecond part,</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>THou ſhalt haue thy Candles,</l>
+                  <l>before thou doſt ariſe:</l>
+                  <l>For churliſhneſſe breeds ſicknes</l>
+                  <l>and dainger therein lies,</l>
+                  <l>Young Laſſes muſt be cheeriſht,</l>
+                  <l>with ſweets that daynty be,</l>
+                  <l>Farre ſweeter then the honny,</l>
+                  <l>that commeth from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Well ſaid good ſon and Daughter,</l>
+                  <l>this is the onely dyet:</l>
+                  <l>To pleaſe a dainty young wife,</l>
+                  <l>and keepe the houſe in quiet:</l>
+                  <l>But ſtay, heere comes your Father</l>
+                  <l>his words <hi>I</hi> hope will be:</l>
+                  <l>More ſweeter then the bloſſomes,</l>
+                  <l>that bloome vpon the Tree.</l>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>Why how now Daughter <hi>Suſan,</hi>
+                  </l>
+                  <l>doe you intend to marry?</l>
+                  <l>Maydens in the old time,</l>
+                  <l>did twenty winters tarry:</l>
+                  <l>Now in the teenes no ſooner,</l>
+                  <l>but you a wife will bee:</l>
+                  <l>And looſe the ſweeteſt bloſſomes,</l>
+                  <l>that bloomes vp on the Tree.</l>
+               </sp>
+               <sp>
+                  <speaker>Suſan.</speaker>
+                  <l>It is for my preferment,</l>
+                  <l>good Father ſay not nay:</l>
+                  <l>For I haue found a Husband kind,</l>
+                  <l>and louing euery way:</l>
+                  <l>That ſtill vnto my fancy</l>
+                  <l>will euermore agree:</l>
+                  <l>Which is more ſweet then honny,</l>
+                  <l>that comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Mother.</speaker>
+                  <l>Hinder not your Daughter,</l>
+                  <l>good Husband, leaſt you bring</l>
+                  <l>Her loues conſuming ſicknes,</l>
+                  <l>or elſe a worſer thing:</l>
+                  <l>Maydens youngly married</l>
+                  <l>louing wiues will bee.</l>
+                  <l>And ſweet as is the honny,</l>
+                  <l>which comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>Good Father be not cruell,</l>
+                  <l>your Daughter is mine owne:</l>
+                  <l>Her mother hath conſented,</l>
+                  <l>and is to liking growne.</l>
+                  <l>And if your ſelfe will giue then,</l>
+                  <l>her gentle hand to me,</l>
+                  <l>Twill ſweeter be then honny,</l>
+                  <l>that comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <l>God giue thee ioy deare Daughter,</l>
+                  <l>there is no reaſon I,</l>
+                  <l>Should hinder thy proceeding,</l>
+                  <l>and thou a Mayden dye:</l>
+                  <l>And after to lead Apes in hell,</l>
+                  <l>as Maydens doomed be:</l>
+                  <l>That fayrer are then bloſſomes,</l>
+                  <l>that bloome vpon the Tree.</l>
+               </sp>
+               <sp>
+                  <speaker>Simon.</speaker>
+                  <l>Then let's to the Parſon,</l>
+                  <l>and Clarke to ſay Amen:</l>
+               </sp>
+               <sp>
+                  <speaker>Suſan.</speaker>
+                  <l>With all my heart good <hi>Simon,</hi>
+                  </l>
+                  <l>we are concluded then:</l>
+                  <l>My Father and Mother both,</l>
+                  <l>doe willingly agree:</l>
+                  <l>My <hi>Simon's</hi> ſweet as honny,</l>
+                  <l>That comes from the Bee.</l>
+               </sp>
+               <sp>
+                  <stage>All together ſing.</stage>
+                  <l>You Maydens and Batchelors.</l>
+                  <l>we hope will looſe no time:</l>
+                  <l>Which learne it by experience,</l>
+                  <l>That youth is in their prime,</l>
+                  <l>And dayly in their hearts deſire,</l>
+                  <l>Young married folkes to be;</l>
+                  <l>More ſweeter then the bloſſomes,</l>
+                  <l>that bloome from the Tree.</l>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London by <hi>W I.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
